@@ -81,7 +81,7 @@ Often you will need to create diagrams for your classwork and homework. There ar
 You should download and install this. It is possible just to install the Draw application rather than the whole LibreOffice suite if you prefer.
 
 ##A2 Coursework
-The A2 coursework has a large component of written coursework. It is recommended that you use **LaTeX** to write your coursework document. You can find more guidance about this on the [COMP4 coursework](https://github.com/MrAGi/COMP4Coursework) page.
+The A2 coursework has a large component of written coursework. It is recommended that you use **LaTeX** to write your coursework document. You can find more guidance about this on the [COMP4 coursework](https://github.com/longroadcomputing/COMP4Coursework) page.
 
 
 
