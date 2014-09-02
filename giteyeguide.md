@@ -43,7 +43,7 @@ To create a new project for your files you should start on **GitHub** as it will
 
 4. This will create your repository and eventually you will end up at the project page:
 
-    ![](04-finishedrepo.PNG)
+    ![](images/04-finishedrepo.PNG)
 
 ##Cloning the New Repository/Project to GitEye
 Having created the new repository on GitHub you can now **clone** this to GitEye to start working locally on your machine.
