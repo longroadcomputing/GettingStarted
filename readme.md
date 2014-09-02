@@ -38,6 +38,9 @@ You will need to [configure GitEye](giteyeguide.md) so that it can be used succe
 ##Classwork and Homework
 Aside from programming you will be asked to complete a number of assignments in class and at home. It is important that you are able to access all of your documents in both places.
 
+###Homework Policy
+All homework should be completed with reference to the [homework policy](homework_policy.md).
+
 ###Dropbox
 Dropbox is a utility that allows you to sync documents between computers and the Dropbox website. This means that you will always have access to your files.
 
