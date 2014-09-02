@@ -27,7 +27,7 @@ This is how the application should look when you first launch it:
 You have now configured the basic settings of GitEye.
 
 ##Creating a New Repository/Project
-To create a new project for your files you should start on **GitHUb** as it will simplify the process of ensuring that your files remain in sync.
+To create a new project for your files you should start on **GitHub** as it will simplify the process of ensuring that your files remain in sync.
 
 1. Go to [GitHub](http://www.github.com) and sign in with your account details. You should be then presented with a page similar to the one below:
 
