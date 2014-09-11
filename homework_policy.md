@@ -1,4 +1,11 @@
-#Theory Homework Policy
+#Homework Policy
+
+The aims of this policy are to:
+
+- raise standards by instilling into students an appreciation of the need to complete all work on time to an acceptable standard
+- encourage students to work in a disciplined manner and produce exactly the evidence that is required in the specified format to meet assessment requirements
+- prepare students better as effective independent learners
+- provide a structure that allows the management of marking and assessment
 
 ##Completion
 
